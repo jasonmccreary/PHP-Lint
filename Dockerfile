@@ -1,4 +1,4 @@
-FROM php:7.3-cli
+FROM php:7.4-cli
 
 LABEL "com.github.actions.name"="PHP Lint"
 LABEL "com.github.actions.description"="Run Lint Against Pull Request"
